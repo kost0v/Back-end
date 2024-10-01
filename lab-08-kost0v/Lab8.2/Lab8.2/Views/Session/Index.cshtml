@@ -1,0 +1,81 @@
+﻿<html>
+<head>
+<h1>Локальное хранилище и хранилище сессий</h1>
+<div>
+    <h2>Локальное хранилище</h2>
+    <input type="text" id="localKey" placeholder="Ключ" />
+    <input type="text" id="localValue" placeholder="Значение" />
+    <button onclick="setLocalStorage()">Сохранить</button>
+    <button onclick="getLocalStorage()">Получить</button>
+    <p id="localResult"></p>
+</div>
+<div>
+    <h2>Хранилище сессий</h2>
+    <input type="text" id="sessionKey" placeholder="Ключ" />
+    <input type="text" id="sessionValue" placeholder="Значение" />
+    <button onclick="setSessionStorage()">Сохранить</button>
+    <button onclick="getSessionStorage()">Получить</button>
+    <p id="sessionResult"></p>
+</div>
+<div>
+    <h2>Cookies</h2>
+    <input type="text" id="cookieKey" placeholder="Ключ" />
+    <input type="text" id="cookieValue" placeholder="Значение" />
+    <button onclick="setPersistentCookie()">Сохранить</button>
+    <button onclick="getCookie()">Получить</button>
+    <p id="cookieResult"></p>
+</div>
+</head>
+<body>
+<script>
+    function setLocalStorage() {
+        var key = document.getElementById('localKey').value;
+        var value = document.getElementById('localValue').value;
+        localStorage.setItem(key, value);
+        document.getElementById('localResult').innerText = `Сохранено: ${key} =
+    ${value}`;
+    }
+    function getLocalStorage() {
+        var key = document.getElementById('localKey').value;
+        var value = localStorage.getItem(key);
+        document.getElementById('localResult').innerText = value ? `Значение: ${key} =
+    ${value}` : "Ключ не найден";
+    }
+    function setSessionStorage() {
+        var key = document.getElementById('sessionKey').value;
+        var value = document.getElementById('sessionValue').value;
+        sessionStorage.setItem(key, value);
+        document.getElementById('sessionResult').innerText = `Сохранено: ${key} =
+    ${value}`;
+    }
+    function getSessionStorage() {
+        var key = document.getElementById('sessionKey').value;
+        var value = sessionStorage.getItem(key);
+        document.getElementById('sessionResult').innerText = value ? `Значение: ${key}
+    = ${value}` : "Ключ не найден";
+    }
+    function setPersistentCookie() {
+        var key = document.getElementById('cookieKey').value;
+        var value = document.getElementById('cookieValue').value;
+        var expires = new Date();
+        expires.setFullYear(expires.getFullYear() + 1);
+        document.cookie = `${key}=${value}; path=/; expires=${expires.toUTCString()}`;
+        document.getElementById('cookieResult').innerText = `Сохранено: ${key} =
+    ${value}`;
+    }
+    function getCookie() {
+        var key = document.getElementById('cookieKey').value;
+        var cookies = document.cookie.split(';');
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = cookies[i].trim();
+            if (cookie.startsWith(key + '=')) {
+                var value = cookie.substring(key.length + 1);
+                document.getElementById('cookieResult').innerText = `Значение: ${key}
+    = ${value}`;
+                return;
+            }
+        }
+        document.getElementById('cookieResult').innerText = "Ключ не найден";
+    }
+</script>
+</body>

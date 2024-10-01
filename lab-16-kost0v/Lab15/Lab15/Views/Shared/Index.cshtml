@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "User";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MiddlewareRedirectApp</title>
+    <link rel="stylesheet" href="~/css/user.css" />
+</head>
+<body>
+    <div class="user-header">
+        <h1>Пользователь</h1>
+    </div>
+    <div class="user-content">
+        <p>К админу нельзя /Admin</p>
+        <button onclick="userAlert('Юзя')">Сообщение</button>
+    </div>
+    <script src="~/js/user.js"></script>
+</body>
+</html>

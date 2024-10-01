@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Stud\\Работы\\Laboratory-Work-MosPoliteh\\2 курс\\backend\\lab-16-kost0v\\Lab15\\Lab15\\wwwroot\\css\\accessdenied.css",
+      "PackagePath": "staticwebassets\\css\\accessdenied.css"
+    },
+    {
+      "Id": "E:\\Stud\\Работы\\Laboratory-Work-MosPoliteh\\2 курс\\backend\\lab-16-kost0v\\Lab15\\Lab15\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "E:\\Stud\\Работы\\Laboratory-Work-MosPoliteh\\2 курс\\backend\\lab-16-kost0v\\Lab15\\Lab15\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "E:\\Stud\\Работы\\Laboratory-Work-MosPoliteh\\2 курс\\backend\\lab-16-kost0v\\Lab15\\Lab15\\wwwroot\\css\\user.css",
+      "PackagePath": "staticwebassets\\css\\user.css"
+    },
+    {
+      "Id": "E:\\Stud\\Работы\\Laboratory-Work-MosPoliteh\\2 курс\\backend\\lab-16-kost0v\\Lab15\\Lab15\\wwwroot\\js\\accessdenied.js",
+      "PackagePath": "staticwebassets\\js\\accessdenied.js"
+    },
+    {
+      "Id": "E:\\Stud\\Работы\\Laboratory-Work-MosPoliteh\\2 курс\\backend\\lab-16-kost0v\\Lab15\\Lab15\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "E:\\Stud\\Работы\\Laboratory-Work-MosPoliteh\\2 курс\\backend\\lab-16-kost0v\\Lab15\\Lab15\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "E:\\Stud\\Работы\\Laboratory-Work-MosPoliteh\\2 курс\\backend\\lab-16-kost0v\\Lab15\\Lab15\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab15.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lab15.props",
+      "PackagePath": "build\\Lab15.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab15.props",
+      "PackagePath": "buildMultiTargeting\\Lab15.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lab15.props",
+      "PackagePath": "buildTransitive\\Lab15.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

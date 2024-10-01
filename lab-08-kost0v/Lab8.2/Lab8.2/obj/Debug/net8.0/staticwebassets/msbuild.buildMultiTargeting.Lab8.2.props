@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lab8.2.props" />
+</Project>

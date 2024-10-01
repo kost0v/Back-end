@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Внутренняя ошибка сервера";
+}
+<h1>Внутренняя ошибка сервера</h1>
+<p>Произошла внутренняя ошибка сервера</p>
+@if (!string.IsNullOrEmpty(ViewBag.RouteOfException))
+{
+    <p>Путь: @ViewBag.RouteOfException</p>
+}

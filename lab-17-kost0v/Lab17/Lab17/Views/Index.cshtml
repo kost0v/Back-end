@@ -1,0 +1,17 @@
+﻿@using System.Text.Json
+@{
+    ViewData["Title"] = "Данные";
+}
+<h2>Home Page</h2>
+@if (ViewData["AllTable"] != null)
+{
+    <h3>Database Results:</h3>
+    <pre>@Html.Raw(JsonSerializer.Serialize(ViewData["AllTable"]))</pre>
+    <p>Request Time: @ViewData["AllTime"] ms</p>
+}
+@if (ViewData["AllTablecache"] != null)
+{
+    <h3>Cache Results:</h3>
+    <pre>@Html.Raw(JsonSerializer.Serialize(ViewData["AllTablecache"]))</pre>
+    <p>Cache Time: @ViewData["AllTimecache"] ms</p>
+}

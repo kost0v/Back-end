@@ -1,0 +1,27 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f8d7da;
+    color: #721c24;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.access-denied-container {
+    text-align: center;
+    background-color: #f8d7da;
+    padding: 2em;
+    border: 1px solid #f5c6cb;
+    border-radius: 10px;
+}
+
+    .access-denied-container h1 {
+        margin: 0;
+        font-size: 2em;
+    }
+
+    .access-denied-container p {
+        margin: 1em 0 0;
+    }

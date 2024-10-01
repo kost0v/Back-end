@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|e:\\stud\\\u0440\u0430\u0431\u043E\u0442\u044B\\laboratory-work-mospoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\lab17\\lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|solutionrelative:lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|e:\\stud\\\u0440\u0430\u0431\u043E\u0442\u044B\\laboratory-work-mospoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\lab17\\lab17\\labcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|solutionrelative:lab17\\labcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|e:\\stud\\\u0440\u0430\u0431\u043E\u0442\u044B\\laboratory-work-mospoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\lab17\\lab17\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|solutionrelative:lab17\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|e:\\stud\\\u0440\u0430\u0431\u043E\u0442\u044B\\laboratory-work-mospoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\lab17\\lab17\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|solutionrelative:lab17\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|e:\\stud\\\u0440\u0430\u0431\u043E\u0442\u044B\\laboratory-work-mospoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\lab17\\lab17\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|solutionrelative:lab17\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|e:\\stud\\\u0440\u0430\u0431\u043E\u0442\u044B\\laboratory-work-mospoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\lab17\\lab17\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|solutionrelative:lab17\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|e:\\stud\\\u0440\u0430\u0431\u043E\u0442\u044B\\laboratory-work-mospoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\lab17\\lab17\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|solutionrelative:lab17\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|e:\\stud\\\u0440\u0430\u0431\u043E\u0442\u044B\\laboratory-work-mospoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\lab17\\lab17\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E71E03EF-CB30-4C7E-B5D2-0DD5F092AA02}|Lab17\\Lab17.csproj|solutionrelative:lab17\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab17\\appsettings.json",
+              "ToolTip": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\appsettings.json",
+              "RelativeToolTip": "Lab17\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T11:54:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab17\\Views\\Index.cshtml",
+              "ToolTip": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\Views\\Index.cshtml",
+              "RelativeToolTip": "Lab17\\Views\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T15:38:38.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExampleService.cs",
+              "DocumentMoniker": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\ExampleService.cs",
+              "RelativeDocumentMoniker": "Lab17\\ExampleService.cs",
+              "ToolTip": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\ExampleService.cs",
+              "RelativeToolTip": "Lab17\\ExampleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:33:45.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Example.cs",
+              "DocumentMoniker": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\Example.cs",
+              "RelativeDocumentMoniker": "Lab17\\Example.cs",
+              "ToolTip": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\Example.cs*",
+              "RelativeToolTip": "Lab17\\Example.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:34:31.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\Program.cs",
+              "RelativeDocumentMoniker": "Lab17\\Program.cs",
+              "ToolTip": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\Program.cs",
+              "RelativeToolTip": "Lab17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:30:36.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "libman.json",
+              "DocumentMoniker": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\libman.json",
+              "RelativeDocumentMoniker": "Lab17\\libman.json",
+              "ToolTip": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\libman.json",
+              "RelativeToolTip": "Lab17\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T15:36:20.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab17\\HomeController.cs",
+              "ToolTip": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\HomeController.cs",
+              "RelativeToolTip": "Lab17\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:35:23.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Labcontext.cs",
+              "DocumentMoniker": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\Labcontext.cs",
+              "RelativeDocumentMoniker": "Lab17\\Labcontext.cs",
+              "ToolTip": "E:\\Stud\\\u0420\u0430\u0431\u043E\u0442\u044B\\Laboratory-Work-MosPoliteh\\2 \u043A\u0443\u0440\u0441\\backend\\lab-17-kost0v\\Lab17\\Lab17\\Labcontext.cs",
+              "RelativeToolTip": "Lab17\\Labcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:33:02.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

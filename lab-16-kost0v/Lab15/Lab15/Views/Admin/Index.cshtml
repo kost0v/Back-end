@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Admin";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MiddlewareRedirectApp</title>
+    <link rel="stylesheet" href="~/css/admin.css" />
+</head>
+<body>
+    <div class="admin-header">
+        <h1>Админ</h1>
+    </div>
+    <div class="admin-content">
+        <p>Вы Админ</p>
+        <button onclick="adminAlert('Ты крутой')">Сообщение</button>
+    </div>
+    <script src="~/js/admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+E:\Stud\Работы\Laboratory-Work-MosPoliteh\2 курс\backend\lab-17-kost0v\Lab17\Lab17\obj\Debug\net8.0\Lab17.csproj.AssemblyReference.cache
+E:\Stud\Работы\Laboratory-Work-MosPoliteh\2 курс\backend\lab-17-kost0v\Lab17\Lab17\obj\Debug\net8.0\Lab17.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stud\Работы\Laboratory-Work-MosPoliteh\2 курс\backend\lab-17-kost0v\Lab17\Lab17\obj\Debug\net8.0\Lab17.AssemblyInfoInputs.cache
+E:\Stud\Работы\Laboratory-Work-MosPoliteh\2 курс\backend\lab-17-kost0v\Lab17\Lab17\obj\Debug\net8.0\Lab17.AssemblyInfo.cs
+E:\Stud\Работы\Laboratory-Work-MosPoliteh\2 курс\backend\lab-17-kost0v\Lab17\Lab17\obj\Debug\net8.0\Lab17.csproj.CoreCompileInputs.cache
+E:\Stud\Работы\Laboratory-Work-MosPoliteh\2 курс\backend\lab-17-kost0v\Lab17\Lab17\obj\Debug\net8.0\Lab17.MvcApplicationPartsAssemblyInfo.cache
+E:\Stud\Работы\Laboratory-Work-MosPoliteh\2 курс\backend\lab-17-kost0v\Lab17\Lab17\obj\Debug\net8.0\Lab17.sourcelink.json
